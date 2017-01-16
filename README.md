@@ -1,2 +1,1 @@
-# hello-world
-Tutorial
+Let's try to understand how github works!
